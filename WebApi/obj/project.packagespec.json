@@ -1,0 +1,41 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/EAD2/EAD2_Labs/WebApi/WebApi.csproj",
+    "projectName": "WebApi",
+    "projectPath": "/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/EAD2/EAD2_Labs/WebApi/WebApi.csproj",
+    "outputPath": "/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/EAD2/EAD2_Labs/WebApi/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.DotNet.Watcher.Tools": {
+          "target": "Package",
+          "version": "2.0.0"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

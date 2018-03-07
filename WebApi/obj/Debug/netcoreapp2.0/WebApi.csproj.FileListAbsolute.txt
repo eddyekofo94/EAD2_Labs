@@ -1,0 +1,10 @@
+/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/EAD2/EAD2_Labs/WebApi/bin/Debug/netcoreapp2.0/WebApi.deps.json
+/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/EAD2/EAD2_Labs/WebApi/bin/Debug/netcoreapp2.0/WebApi.runtimeconfig.json
+/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/EAD2/EAD2_Labs/WebApi/bin/Debug/netcoreapp2.0/WebApi.runtimeconfig.dev.json
+/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/EAD2/EAD2_Labs/WebApi/bin/Debug/netcoreapp2.0/WebApi.dll
+/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/EAD2/EAD2_Labs/WebApi/bin/Debug/netcoreapp2.0/WebApi.pdb
+/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/EAD2/EAD2_Labs/WebApi/obj/Debug/netcoreapp2.0/WebApi.csproj.CoreCompileInputs.cache
+/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/EAD2/EAD2_Labs/WebApi/obj/Debug/netcoreapp2.0/WebApi.AssemblyInfoInputs.cache
+/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/EAD2/EAD2_Labs/WebApi/obj/Debug/netcoreapp2.0/WebApi.AssemblyInfo.cs
+/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/EAD2/EAD2_Labs/WebApi/obj/Debug/netcoreapp2.0/WebApi.dll
+/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/EAD2/EAD2_Labs/WebApi/obj/Debug/netcoreapp2.0/WebApi.pdb

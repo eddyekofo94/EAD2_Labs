@@ -1,0 +1,10 @@
+/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/EAD2/EAD2_Labs/exercise1/ead2_ex1/bin/Debug/netcoreapp2.0/ead2_ex1.deps.json
+/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/EAD2/EAD2_Labs/exercise1/ead2_ex1/bin/Debug/netcoreapp2.0/ead2_ex1.runtimeconfig.json
+/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/EAD2/EAD2_Labs/exercise1/ead2_ex1/bin/Debug/netcoreapp2.0/ead2_ex1.runtimeconfig.dev.json
+/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/EAD2/EAD2_Labs/exercise1/ead2_ex1/bin/Debug/netcoreapp2.0/ead2_ex1.dll
+/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/EAD2/EAD2_Labs/exercise1/ead2_ex1/bin/Debug/netcoreapp2.0/ead2_ex1.pdb
+/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/EAD2/EAD2_Labs/exercise1/ead2_ex1/obj/Debug/netcoreapp2.0/ead2_ex1.csproj.CoreCompileInputs.cache
+/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/EAD2/EAD2_Labs/exercise1/ead2_ex1/obj/Debug/netcoreapp2.0/ead2_ex1.AssemblyInfoInputs.cache
+/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/EAD2/EAD2_Labs/exercise1/ead2_ex1/obj/Debug/netcoreapp2.0/ead2_ex1.AssemblyInfo.cs
+/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/EAD2/EAD2_Labs/exercise1/ead2_ex1/obj/Debug/netcoreapp2.0/ead2_ex1.dll
+/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/EAD2/EAD2_Labs/exercise1/ead2_ex1/obj/Debug/netcoreapp2.0/ead2_ex1.pdb
