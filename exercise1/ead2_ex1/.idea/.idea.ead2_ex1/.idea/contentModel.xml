@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$/../../../EAD2_CA1/webapi/ClientApp/ClientApp.csproj" t="IncludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
       <e p="appsettings.Development.json" t="Include" />
       <e p="appsettings.json" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="Controllers" t="Include">
-        <e p="ValuesController.cs" t="Include" />
+        <e p="WeatherController.cs" t="Include" />
       </e>
       <e p="ead2_ex1.csproj" t="IncludeRecursive" />
       <e p="ead2_ex1.sln" t="IncludeFlat" />

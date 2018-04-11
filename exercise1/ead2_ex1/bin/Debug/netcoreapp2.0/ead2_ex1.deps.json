@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "7c6491b782d123313f51c5d8be7df63ef9431974"
+    "signature": "b1a05eec227015f5e3ad1d8bf3d2b1f04d5163e4"
   },
   "compilationOptions": {
     "defines": [
@@ -24,6 +24,7 @@
       "ead2_ex1/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.All": "2.0.5",
+          "Microsoft.DotNet.Watcher.Tools": "2.0.0",
           "Microsoft.NETCore.App": "2.0.0"
         },
         "runtime": {
@@ -1569,6 +1570,17 @@
         },
         "compile": {
           "lib/netstandard1.3/Microsoft.DotNet.PlatformAbstractions.dll": {}
+        }
+      },
+      "Microsoft.DotNet.Watcher.Tools/2.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.App": "2.0.0"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/dotnet-watch.dll": {}
+        },
+        "compile": {
+          "lib/netcoreapp2.0/dotnet-watch.dll": {}
         }
       },
       "Microsoft.EntityFrameworkCore/2.0.1": {
@@ -4670,6 +4682,13 @@
       "sha512": "sha512-cXgVdJmW3fLwmSxsv0RlTe4BIKs6slVXV5xRvsO4CV4aUeY67GelaujxY/lP5yVlaMjMM22pXKbKtUY9x050Mw==",
       "path": "microsoft.dotnet.platformabstractions/2.0.3",
       "hashPath": "microsoft.dotnet.platformabstractions.2.0.3.nupkg.sha512"
+    },
+    "Microsoft.DotNet.Watcher.Tools/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-//UgdKyy1W4PHxC77HzhxEG/drLu9UplJe0UBa0161DH947quz+EJ0AEVCjDlFC7FnJKXfr5yDIYcuZUn5ux4Q==",
+      "path": "microsoft.dotnet.watcher.tools/2.0.0",
+      "hashPath": "microsoft.dotnet.watcher.tools.2.0.0.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore/2.0.1": {
       "type": "package",

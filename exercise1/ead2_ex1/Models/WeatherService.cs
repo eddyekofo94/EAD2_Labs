@@ -4,19 +4,42 @@ namespace ead2_ex1.Models
 {
     public class WeatherService
     {
-        public WeatherService()
-        {
-//            CitiWeathers.Add(new City().Name);
-        }
 
-        public Weather c1 = new Weather()
+//        private static List<WeatherInformation> weather = new List<WeatherInformation>() 
+        public IEnumerable<Weather> CityWeathers = new List<Weather>()
         {
-            Name = "Dublin",
-            CurrentTemperature = 34,
-            CurrentWindSpeed = 78,
-            WeatherWarning = true
+            new Weather
+            {
+                Name = "Dublin",
+                CurrentTemperature = 10,
+                CurrentWindSpeed = 30,
+                CurrentWeathercondition = "Cloudy",
+                WeatherWarning = false
+            },
+            new Weather
+            {
+                Name = "Cork",
+                CurrentTemperature = 10,
+                CurrentWindSpeed = 50,
+                CurrentWeathercondition = "Rain",
+                WeatherWarning = true
+            },
+            new Weather
+            {
+                Name = "Galway",
+                CurrentTemperature = 12,
+                CurrentWindSpeed = 10,
+                CurrentWeathercondition = "Sunny",
+                WeatherWarning = false
+            },
+            new Weather
+            {
+                Name = "Limerick",
+                CurrentTemperature = 8,
+                CurrentWindSpeed = 50,
+                CurrentWeathercondition = "Rain",
+                WeatherWarning = true
+            }
         };
-//        Weather _weather = new Weather();
-        public List<City> CitiWeathers = new List<City>();
     }
 }

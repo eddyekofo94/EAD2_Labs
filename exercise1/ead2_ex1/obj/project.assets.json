@@ -1659,6 +1659,18 @@
           "lib/netstandard1.3/Microsoft.DotNet.PlatformAbstractions.dll": {}
         }
       },
+      "Microsoft.DotNet.Watcher.Tools/2.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.App": "2.0.0"
+        },
+        "compile": {
+          "lib/netcoreapp2.0/dotnet-watch.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/dotnet-watch.dll": {}
+        }
+      },
       "Microsoft.EntityFrameworkCore/2.0.1": {
         "type": "package",
         "dependencies": {
@@ -6057,6 +6069,21 @@
         "lib/netstandard1.3/Microsoft.DotNet.PlatformAbstractions.dll",
         "microsoft.dotnet.platformabstractions.2.0.3.nupkg.sha512",
         "microsoft.dotnet.platformabstractions.nuspec"
+      ]
+    },
+    "Microsoft.DotNet.Watcher.Tools/2.0.0": {
+      "sha512": "//UgdKyy1W4PHxC77HzhxEG/drLu9UplJe0UBa0161DH947quz+EJ0AEVCjDlFC7FnJKXfr5yDIYcuZUn5ux4Q==",
+      "type": "package",
+      "path": "microsoft.dotnet.watcher.tools/2.0.0",
+      "files": [
+        "lib/netcoreapp2.0/dotnet-watch.dll",
+        "lib/netcoreapp2.0/dotnet-watch.runtimeconfig.json",
+        "microsoft.dotnet.watcher.tools.2.0.0.nupkg.sha512",
+        "microsoft.dotnet.watcher.tools.nuspec",
+        "prefercliruntime",
+        "toolassets/DotNetWatchCommon.targets",
+        "toolassets/DotNetWatchInner.targets",
+        "toolassets/DotNetWatchOuter.targets"
       ]
     },
     "Microsoft.EntityFrameworkCore/2.0.1": {
@@ -12531,6 +12558,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.5",
+      "Microsoft.DotNet.Watcher.Tools >= 2.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
@@ -12576,6 +12604,10 @@
           "Microsoft.AspNetCore.All": {
             "target": "Package",
             "version": "[2.0.5, )"
+          },
+          "Microsoft.DotNet.Watcher.Tools": {
+            "target": "Package",
+            "version": "[2.0.0, )"
           },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",

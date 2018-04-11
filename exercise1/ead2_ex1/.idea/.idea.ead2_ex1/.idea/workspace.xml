@@ -13,45 +13,50 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="ValuesController.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Controllers/ValuesController.cs">
+          <file leaf-file-name="WeatherController.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Controllers/WeatherController.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-317">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <state relative-caret-position="195">
+                  <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
                   <folding>
-                    <marker date="1520376784562" expanded="false" signature="6:128" ph="..." />
-                    <marker date="1520376784562" expanded="true" signature="160:916" ph="{...}" />
-                    <marker date="1520376784562" expanded="true" signature="241:914" ph="{...}" />
-                    <marker date="1520376784562" expanded="true" signature="332:408" ph="{...}" />
-                    <marker date="1520376784562" expanded="true" signature="497:545" ph="{...}" />
-                    <marker date="1520376784562" expanded="true" signature="641:661" ph="{...}" />
-                    <marker date="1520376784562" expanded="true" signature="772:792" ph="{...}" />
-                    <marker date="1520376784562" expanded="true" signature="888:908" ph="{...}" />
+                    <marker date="1520424820728" expanded="true" signature="6:177" ph="..." />
+                    <marker date="1520424820728" expanded="true" signature="209:1534" ph="{...}" />
+                    <marker date="1520424820728" expanded="true" signature="291:1532" ph="{...}" />
+                    <marker date="1520424820728" expanded="true" signature="475:531" ph="{...}" />
+                    <marker date="1520424820728" expanded="true" signature="641:1083" ph="{...}" />
+                    <marker date="1520424820728" expanded="true" signature="915:1041" ph="{...}" />
+                    <marker date="1520424820728" expanded="true" signature="1085:1189" ph="/* public OkObjectResult Get() ... */" />
+                    <marker date="1520424820728" expanded="true" signature="1258:1278" ph="{...}" />
+                    <marker date="1520424820728" expanded="true" signature="1390:1410" ph="{...}" />
+                    <marker date="1520424820728" expanded="true" signature="1506:1526" ph="{...}" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="WeatherService.cs" pinned="false" current-in-tab="true">
+          <file leaf-file-name="WeatherService.cs" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Models/WeatherService.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="173">
-                  <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+                <state relative-caret-position="-330">
+                  <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
                   <folding>
-                    <marker date="1520381716971" expanded="true" signature="60:398" ph="{...}" />
-                    <marker date="1520381716971" expanded="true" signature="94:396" ph="{...}" />
-                    <marker date="1520381716971" expanded="true" signature="132:201" ph="{...}" />
-                    <marker date="1520381716971" expanded="true" signature="247:286" ph="{...}" />
+                    <marker date="1520384140355" expanded="true" signature="60:1312" ph="{...}" />
+                    <marker date="1520384140355" expanded="true" signature="94:1310" ph="{...}" />
+                    <marker date="1520384140355" expanded="true" signature="273:1303" ph="{...}" />
+                    <marker date="1520384140355" expanded="true" signature="311:530" ph="{...}" />
+                    <marker date="1520384140355" expanded="true" signature="568:782" ph="{...}" />
+                    <marker date="1520384140355" expanded="true" signature="820:1038" ph="{...}" />
+                    <marker date="1520384140355" expanded="true" signature="1076:1293" ph="{...}" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="City.cs" pinned="false" current-in-tab="false">
+          <file leaf-file-name="City.cs" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Models/City.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                  <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+                <state relative-caret-position="168">
+                  <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
                   <folding>
                     <marker date="1520380355710" expanded="true" signature="25:147" ph="{...}" />
                     <marker date="1520380355710" expanded="true" signature="49:145" ph="{...}" />
@@ -68,18 +73,12 @@
           <file leaf-file-name="Weather.cs" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Models/Weather.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-77">
-                  <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+                <state relative-caret-position="327">
+                  <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
                   <folding>
-                    <marker date="1520381412307" expanded="true" signature="6:101" ph="..." />
-                    <marker date="1520381412307" expanded="true" signature="128:1262" ph="{...}" />
-                    <marker date="1520381412307" expanded="true" signature="164:247" ph="{...}" />
-                    <marker date="1520381412307" expanded="true" signature="280:1260" ph="{...}" />
-                    <marker date="1520381412307" expanded="true" signature="412:512" ph="/* private List&lt;string&gt; _weatherConditions = new List&lt;string&gt;(new[] ... */" />
-                    <marker date="1520381412307" expanded="true" signature="643:855" ph="{...}" />
-                    <marker date="1520381412307" expanded="true" signature="695:845" ph="{...}" />
-                    <marker date="1520381412307" expanded="true" signature="760:831" ph="{...}" />
-                    <marker date="1520381412307" expanded="true" signature="907:1254" ph="/* public string CurrentWeathercondition ... */" />
+                    <marker date="1520384555159" expanded="true" signature="6:101" ph="..." />
+                    <marker date="1520384555159" expanded="true" signature="128:507" ph="{...}" />
+                    <marker date="1520384555159" expanded="true" signature="162:505" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -91,7 +90,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controllers/WeatherController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Models/Weather.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Models/City.cs" root0="FORCE_HIGHLIGHTING" />
@@ -101,8 +100,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Models/City.cs" />
-        <option value="$PROJECT_DIR$/Models/Weather.cs" />
+        <option value="$PROJECT_DIR$/Controllers/ValuesController.cs" />
         <option value="$PROJECT_DIR$/Models/WeatherService.cs" />
+        <option value="$PROJECT_DIR$/Models/Weather.cs" />
+        <option value="$PROJECT_DIR$/Controllers/WeatherController.cs" />
       </list>
     </option>
   </component>
@@ -112,7 +113,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="width" value="1440" />
     <option name="height" value="843" />
   </component>
@@ -136,18 +137,12 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="ead2_ex1 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ead2_ex1 (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="ead2_ex1 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ead2_ex1 (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="ead2_ex1" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="ead2_ex1 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="ead2_ex1" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -175,6 +170,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="ValuesController&#9;null&#9;null" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -223,12 +219,12 @@
       <option name="presentableId" value="Default" />
       <updated>1520377138978</updated>
       <workItem from="1520377142883" duration="27000" />
-      <workItem from="1520377322800" duration="3943000" />
+      <workItem from="1520377322800" duration="17699000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3970000" />
+    <option name="totallyTimeSpent" value="17726000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -240,30 +236,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="843" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3647541" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10014306" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -278,35 +274,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1520376784573" expanded="false" signature="6:330" ph="..." />
-            <marker date="1520376784573" expanded="true" signature="350:1130" ph="{...}" />
-            <marker date="1520376784573" expanded="true" signature="377:1128" ph="{...}" />
-            <marker date="1520376784573" expanded="true" signature="436:499" ph="{...}" />
-            <marker date="1520376784573" expanded="true" signature="722:773" ph="{...}" />
-            <marker date="1520376784573" expanded="true" signature="961:1122" ph="{...}" />
-            <marker date="1520376784573" expanded="true" signature="1008:1085" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1520376784565" expanded="false" signature="6:255" ph="..." />
-            <marker date="1520376784565" expanded="true" signature="275:596" ph="{...}" />
-            <marker date="1520376784565" expanded="true" signature="302:594" ph="{...}" />
-            <marker date="1520376784565" expanded="true" signature="355:413" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/appsettings.Development.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -323,27 +290,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Controllers/ValuesController.cs">
+    <entry file="file://$PROJECT_DIR$/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-317">
+        <state relative-caret-position="-29">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1520376784562" expanded="false" signature="6:128" ph="..." />
-            <marker date="1520376784562" expanded="true" signature="160:916" ph="{...}" />
-            <marker date="1520376784562" expanded="true" signature="241:914" ph="{...}" />
-            <marker date="1520376784562" expanded="true" signature="332:408" ph="{...}" />
-            <marker date="1520376784562" expanded="true" signature="497:545" ph="{...}" />
-            <marker date="1520376784562" expanded="true" signature="641:661" ph="{...}" />
-            <marker date="1520376784562" expanded="true" signature="772:792" ph="{...}" />
-            <marker date="1520376784562" expanded="true" signature="888:908" ph="{...}" />
+            <marker date="1520376784565" expanded="false" signature="6:255" ph="..." />
+            <marker date="1520376784565" expanded="true" signature="275:596" ph="{...}" />
+            <marker date="1520376784565" expanded="true" signature="302:594" ph="{...}" />
+            <marker date="1520376784565" expanded="true" signature="355:413" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-104">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1520376784573" expanded="false" signature="6:330" ph="..." />
+            <marker date="1520376784573" expanded="true" signature="350:1130" ph="{...}" />
+            <marker date="1520376784573" expanded="true" signature="377:1128" ph="{...}" />
+            <marker date="1520376784573" expanded="true" signature="436:499" ph="{...}" />
+            <marker date="1520376784573" expanded="true" signature="722:773" ph="{...}" />
+            <marker date="1520376784573" expanded="true" signature="961:1122" ph="{...}" />
+            <marker date="1520376784573" expanded="true" signature="1008:1085" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../EAD2_CA1/webapi/ClientApp/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/WeatherService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <marker date="1520384140355" expanded="true" signature="60:1312" ph="{...}" />
+            <marker date="1520384140355" expanded="true" signature="94:1310" ph="{...}" />
+            <marker date="1520384140355" expanded="true" signature="273:1303" ph="{...}" />
+            <marker date="1520384140355" expanded="true" signature="311:530" ph="{...}" />
+            <marker date="1520384140355" expanded="true" signature="568:782" ph="{...}" />
+            <marker date="1520384140355" expanded="true" signature="820:1038" ph="{...}" />
+            <marker date="1520384140355" expanded="true" signature="1076:1293" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/WeatherController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <marker date="1520424820728" expanded="true" signature="6:177" ph="..." />
+            <marker date="1520424820728" expanded="true" signature="209:1534" ph="{...}" />
+            <marker date="1520424820728" expanded="true" signature="291:1532" ph="{...}" />
+            <marker date="1520424820728" expanded="true" signature="475:531" ph="{...}" />
+            <marker date="1520424820728" expanded="true" signature="641:1083" ph="{...}" />
+            <marker date="1520424820728" expanded="true" signature="915:1041" ph="{...}" />
+            <marker date="1520424820728" expanded="true" signature="1085:1189" ph="/* public OkObjectResult Get() ... */" />
+            <marker date="1520424820728" expanded="true" signature="1258:1278" ph="{...}" />
+            <marker date="1520424820728" expanded="true" signature="1390:1410" ph="{...}" />
+            <marker date="1520424820728" expanded="true" signature="1506:1526" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Models/City.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        <state relative-caret-position="168">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <marker date="1520380355710" expanded="true" signature="25:147" ph="{...}" />
             <marker date="1520380355710" expanded="true" signature="49:145" ph="{...}" />
@@ -354,31 +376,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Models/Weather.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-77">
-          <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        <state relative-caret-position="327">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           <folding>
-            <marker date="1520381412307" expanded="true" signature="6:101" ph="..." />
-            <marker date="1520381412307" expanded="true" signature="128:1262" ph="{...}" />
-            <marker date="1520381412307" expanded="true" signature="164:247" ph="{...}" />
-            <marker date="1520381412307" expanded="true" signature="280:1260" ph="{...}" />
-            <marker date="1520381412307" expanded="true" signature="412:512" ph="/* private List&lt;string&gt; _weatherConditions = new List&lt;string&gt;(new[] ... */" />
-            <marker date="1520381412307" expanded="true" signature="643:855" ph="{...}" />
-            <marker date="1520381412307" expanded="true" signature="695:845" ph="{...}" />
-            <marker date="1520381412307" expanded="true" signature="760:831" ph="{...}" />
-            <marker date="1520381412307" expanded="true" signature="907:1254" ph="/* public string CurrentWeathercondition ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Models/WeatherService.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding>
-            <marker date="1520381716971" expanded="true" signature="60:398" ph="{...}" />
-            <marker date="1520381716971" expanded="true" signature="94:396" ph="{...}" />
-            <marker date="1520381716971" expanded="true" signature="132:201" ph="{...}" />
-            <marker date="1520381716971" expanded="true" signature="247:286" ph="{...}" />
+            <marker date="1520384555159" expanded="true" signature="6:101" ph="..." />
+            <marker date="1520384555159" expanded="true" signature="128:507" ph="{...}" />
+            <marker date="1520384555159" expanded="true" signature="162:505" ph="{...}" />
           </folding>
         </state>
       </provider>
