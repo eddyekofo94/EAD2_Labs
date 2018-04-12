@@ -2,7 +2,12 @@
     <string name="app_name">AndroidLab</string>
     <string name="my_name">Eddy Ekofo</string>
     <string name="greeting">Hello</string>
+
+    <string name="task_2">Task 2: Temperature Converter</string>
     <!--Logcat-->
     <string name="logcatFunction">toastMyName() method called</string>
+    <!--Converter strings-->
+    <string name="title_converter">Temperature Converter</string>
+    <string name="button_convert">convert</string>
 
 </resources>
